@@ -1,0 +1,5 @@
+reason,rows,percent_of_raw
+retained,397884,73.42265952401603
+missing_customer_id,134697,24.856018261368607
+cancelled_invoice,9288,1.7139409015166753
+nonpositive_price,40,0.007381313098693692

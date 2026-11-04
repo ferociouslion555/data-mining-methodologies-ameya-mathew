@@ -1,0 +1,2 @@
+rows,columns,missing_cells,duplicate_rows,duplicate_ids,min_duration_seconds,median_duration_seconds,mean_duration_seconds,max_duration_seconds,min_passenger_count,max_passenger_count,pickup_time_invalid,dropoff_time_invalid
+200000,14,0,0,0,1,663.0,954.27116,86390,0,6,0,0

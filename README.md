@@ -11,6 +11,8 @@ This repository demonstrates one end-to-end data-mining project through each of 
 2. [`semma-student-performance`](semma-student-performance/) — student-performance classification using Sample, Explore, Modify, Model, and Assess.
 3. [`kdd-online-retail`](kdd-online-retail/) — transaction cleaning, customer segmentation, and association-rule discovery.
 
+Complete notebooks are in [`notebooks/`](notebooks/), Medium-style article drafts are in [`articles/`](articles/), and the recording guide is [`video_walkthrough_script.md`](video_walkthrough_script.md).
+
 ## Running the notebooks
 
 The notebooks are designed for Google Colab. Open the notebook and choose **Open in Colab**, or run locally with Python 3.11 and the packages in `requirements.txt`.

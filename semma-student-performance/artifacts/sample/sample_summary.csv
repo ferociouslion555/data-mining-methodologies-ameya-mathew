@@ -1,0 +1,2 @@
+dataset,rows,columns,target,positive_class_count,negative_class_count,train_rows,test_rows,random_seed,sampling
+UCI Student Performance,395,34,pass = G3 >= 10,265,130,316,79,42,stratified 80/20 split

@@ -1,0 +1,6 @@
+metric,value
+raw_rows,200000
+retained_rows,198523
+excluded_rows,1477
+retained_percent,99.2615
+predictor_target_overlap,none
